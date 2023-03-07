@@ -1,4 +1,4 @@
-# FpgaCode
+# FPGACode
 ## water_led
 
 流水灯程序
